@@ -209,16 +209,17 @@ DATOS TEMPERATURA LIMA-PERÚ
 
 # 👨‍💻 Autores
 
-Proyecto desarrollado como parte del diseño de una interfaz web para la gestión de dispositivos IoT.
+Desarrolado por Jorge Plaza Pisanan
+8 vo TELEMÁTICA .
 
 ---
 
 # 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT.
+Este proyecto se distribuye bajo la licencia de la Universidad Tecnica Estatal de Quevedo.
 
 ```
-MIT License
+License
 
 Copyright (c)
 
