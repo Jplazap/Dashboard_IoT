@@ -178,10 +178,10 @@ No se requiere instalar dependencias adicionales.
 
 # 📸 Capturas
 
-Se recomienda incluir imágenes como:
+IMAGENES DEL DASHBOARD FUNCIONANDO:
 
-```
-<img width="833" height="658" alt="image" src="https://github.com/user-attachments/assets/ebb86a01-acca-4bf0-8eb8-445c798921b0" />
+
+
 DATOS TEMPERATURA QUITO-ECUADOR 
 <img width="842" height="551" alt="image" src="https://github.com/user-attachments/assets/b25388e2-35f8-4564-b14b-9b8b032190aa" />
 DATOS TEMPERATURA BOGOTÁ-COLOMBIA
@@ -189,7 +189,7 @@ DATOS TEMPERATURA BOGOTÁ-COLOMBIA
 DATOS TEMPERATURA LIMA-PERÚ
 <img width="886" height="486" alt="image" src="https://github.com/user-attachments/assets/0325fc4c-9c59-408c-99fe-6d55612e56d8" />
 
-```
+
 
 ---
 
