@@ -1,5 +1,7 @@
 # Dashboard_IoT
 Desarrollar un dashboard web interactivo para el monitoreo ambiental que integre datos de sensores IoT y APIs públicas, proporcionando visualización geoespacial y análisis de calidad del aire en tiempo real.
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/41499503-3ccb-41be-b6b2-c8c6a4025177" />
+
 
 # 🌐 Diseño de una Interfaz Web Accesible para Gestión de Dispositivos IoT
 
