@@ -1,4 +1,5 @@
 # Dashboard_IoT
+https://jplazap.github.io/Dashboard_IoT/ 
 Desarrollar un dashboard web interactivo para el monitoreo ambiental que integre datos de sensores IoT y APIs públicas, proporcionando visualización geoespacial y análisis de calidad del aire en tiempo real.
 <img width="833" height="658" alt="image" src="https://github.com/user-attachments/assets/bc14d16c-ebba-42d9-a3d6-a1b0105ed31f" />
 
